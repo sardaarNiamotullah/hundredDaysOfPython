@@ -10,7 +10,9 @@ Data Types and Manupulating Strings. <br> <br>
 - **[Day_3](https://replit.com/@sardaarNiamotullah/treasureIsland#main.py): Treasure Island.** <br>
 Control Flow Operations. <br> <br>
 - **[Day_4](https://replit.com/@sardaarNiamotullah/rockPaperScissors#main.py): Rock Paper Scissors.** <br>
-Randomisation and Lists.
+Randomisation and Lists. <br> <br>
+- **[Day_4](https://replit.com/@sardaarNiamotullah/passwordGenerator#main.py): Password Generator.** <br>
+Loop.
 
 [//]: # (Takeaway Keywords)
 <!--
