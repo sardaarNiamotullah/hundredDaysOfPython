@@ -82,4 +82,4 @@ for _ in range(0, letter):
 random.shuffle(password)
 password = "".join(map(str, password))
 
-print(password)
+print(f"Here is your password: {password}")

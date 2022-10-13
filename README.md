@@ -11,8 +11,10 @@ Data Types and Manupulating Strings. <br> <br>
 Control Flow Operations. <br> <br>
 - **[Day_4](https://replit.com/@sardaarNiamotullah/rockPaperScissors#main.py): Rock Paper Scissors.** <br>
 Randomisation and Lists. <br> <br>
-- **[Day_4](https://replit.com/@sardaarNiamotullah/passwordGenerator#main.py): Password Generator.** <br>
-Loop.
+- **[Day_5](https://replit.com/@sardaarNiamotullah/passwordGenerator#main.py): Password Generator.** <br>
+Loop. <br> <br>
+- **[Day_6](): The Maze Runner!** <br>
+Function and Karel.
 
 [//]: # (Takeaway Keywords)
 <!--
