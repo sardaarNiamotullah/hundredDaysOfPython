@@ -13,8 +13,9 @@ Control Flow Operations. <br> <br>
 Randomisation and Lists. <br> <br>
 - **[Day_5](https://replit.com/@sardaarNiamotullah/passwordGenerator#main.py): Password Generator.** <br>
 Loop. <br> <br>
-- **[Day_6](): The Maze Runner!** <br>
-Function and Karel.
+- **[Day_6](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json): The Maze Runner!** <br>
+Function and Karel. <br> <br>
+- **[Day_7](https://replit.com/@sardaarNiamotullah/hangman#main.py): Hangman.**
 
 [//]: # (Takeaway Keywords)
 <!--
