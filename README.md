@@ -15,7 +15,8 @@ Randomisation and Lists. <br> <br>
 Loop. <br> <br>
 - **[Day_6](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json): The Maze Runner!** <br>
 Function and Karel. <br> <br>
-- **[Day_7](https://replit.com/@sardaarNiamotullah/hangman#main.py): Hangman.**
+- **[Day_7](https://replit.com/@sardaarNiamotullah/hangman#main.py): Hangman.** <br>
+Module, OS. A fun english word guessing game.
 
 [//]: # (Takeaway Keywords)
 <!--
@@ -27,5 +28,6 @@ Function and Karel. <br> <br>
 """)
 * randomisation: import random // variable = random.randint(1,10) // variable = random.random()
 * randomisation: variable = random.choice(listName) // it will return a random value from list.
+* from os import system // system('clear'): to clear the console.
 
 -->
