@@ -29,7 +29,7 @@ bidDict = {}
 endAuction = True
 
 while endAuction:
-    name = input("What's your name?: ")
+    name = input("What's your name?: ").title()
     bidAmount = input("What's your bid?: $")
     bidAmount = invalidBidChecker(bidAmount)
 

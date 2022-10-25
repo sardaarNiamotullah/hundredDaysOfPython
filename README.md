@@ -20,13 +20,15 @@ A fun english word guessing game. <br> <br>
 - **[Day_8](https://replit.com/@sardaarNiamotullah/caesarCipher#main.py): Caesar Cipher.** <br>
 A message encryption tool. <br> <br>
 - **[Day_9](https://replit.com/@sardaarNiamotullah/secretAuction#main.py): Secret Auction.** <br>
-A secret auction program using Python Dictionary.
+A secret auction program using Python Dictionary. <br> <br>
+- **[Day_10](https://replit.com/@sardaarNiamotullah/calculator#main.py): Calculator.** <br>
+A basic calculator. <br> <br>
 
 [//]: # (Takeaway Keywords)
 <!--
 * f-string: print(f"adhfei {variable}")
 * format: twoDecimalPointAfterNumber = "{:.2f}".format(variable)
-* lower(): string.lower() // "RATUL".lower() = "ratul"
+* lower(), title(): string.lower() string.title() // "RATUL".lower() = "ratul" "RATul".title() = "Ratul"
 * count(): string.count() // "niamotullahRatul".count(a) = 3
 * print("""
 """)
@@ -34,5 +36,9 @@ A secret auction program using Python Dictionary.
 * randomisation: variable = random.choice(listName) // it will return a random value from list.
 * from os import system // system('clear'): to clear the console.
 * list.index('value') // return the index value of a particular entity.
+* docstrings = """....""" // defines the function work on calling it.
+    def function():
+        """i'm a function!!!"""
+
 
 -->
