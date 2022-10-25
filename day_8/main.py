@@ -69,4 +69,5 @@ while playAgain:
         system('clear')
         continue
     else:
+        print("Goodbye!")
         break

@@ -18,7 +18,9 @@ Function and Karel. <br> <br>
 - **[Day_7](https://replit.com/@sardaarNiamotullah/hangman#main.py): Hangman.** <br>
 A fun english word guessing game. <br> <br>
 - **[Day_8](https://replit.com/@sardaarNiamotullah/caesarCipher#main.py): Caesar Cipher.** <br>
-A message encryption tool.
+A message encryption tool. <br> <br>
+- **[Day_9](https://replit.com/@sardaarNiamotullah/secretAuction#main.py): Secret Auction.** <br>
+A secret auction program using Python Dictionary.
 
 [//]: # (Takeaway Keywords)
 <!--
@@ -31,5 +33,6 @@ A message encryption tool.
 * randomisation: import random // variable = random.randint(1,10) // variable = random.random()
 * randomisation: variable = random.choice(listName) // it will return a random value from list.
 * from os import system // system('clear'): to clear the console.
+* list.index('value') // return the index value of a particular entity.
 
 -->
