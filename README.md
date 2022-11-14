@@ -23,6 +23,8 @@ A message encryption tool. <br> <br>
 A secret auction program using Python Dictionary. <br> <br>
 - **[Day_10](https://replit.com/@sardaarNiamotullah/calculator#main.py): Calculator.** <br>
 A basic calculator. <br> <br>
+- **[Day_11](https://replit.com/@sardaarNiamotullah/blackJack#main.py): BlackJack.** <br>
+Capstone Project: A card game. <br> <br>
 
 [//]: # (Takeaway Keywords)
 <!--
