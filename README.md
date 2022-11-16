@@ -25,6 +25,8 @@ A secret auction program using Python Dictionary. <br> <br>
 A basic calculator. <br> <br>
 - **[Day_11](https://replit.com/@sardaarNiamotullah/blackJack#main.py): BlackJack.** <br>
 Capstone Project: A card game. <br> <br>
+- **[Day_12](https://replit.com/@sardaarNiamotullah/guessTheNumber#main.py): Guess The Number.** <br>
+A number guessing game. <br> <br>
 
 [//]: # (Takeaway Keywords)
 <!--

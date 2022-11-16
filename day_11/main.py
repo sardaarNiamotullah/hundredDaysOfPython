@@ -2,7 +2,7 @@ from random import choice, randint
 from os import system
 from art import logo
 
-deck = [1, 2, 3, 4, 5, 6, 7, 8, 10, 10, 10, 10, 11]
+deck = [11, 2, 3, 4, 5, 6, 7, 8, 10, 10, 10, 10]
 
 playAgain = True
 
@@ -26,7 +26,7 @@ while playAgain:
     for _ in range(comHit):
         comHand.append(choice(deck))
         comPoint = score(comHand)
-        if comPoint > 21:
+        if comPoint >= 21:
             break
 
 
