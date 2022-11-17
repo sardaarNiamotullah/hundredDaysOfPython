@@ -27,6 +27,10 @@ A basic calculator. <br> <br>
 Capstone Project: A card game. <br> <br>
 - **[Day_12](https://replit.com/@sardaarNiamotullah/guessTheNumber#main.py): Guess The Number.** <br>
 A number guessing game. <br> <br>
+- **Day_13: Only Theory Day.** <br>
+There is no Hands-on project on this day. <br> <br>
+- **[Day_14](https://replit.com/@sardaarNiamotullah/higherLower#main.py): Heigher or Lower.** <br>
+Another guessing game. <br> <br>
 
 [//]: # (Takeaway Keywords)
 <!--

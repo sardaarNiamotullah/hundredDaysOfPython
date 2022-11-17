@@ -17,6 +17,17 @@ def inputChecker3(playAgain):
         else:
             playAgain = input("Please enter a vaild input to continue: ")
 
+def validNumberChecker(number):
+    validInput = False
+    while not validInput:
+        try:
+            number = int(number)
+        except:
+            number = input("Please enter a valid number: ")
+        else:
+            return number
+
+
 playAgain = True
 
 while playAgain:
@@ -33,7 +44,8 @@ while playAgain:
         print("You have 5 guesses to figure out the number.")
         life = 5
         for _ in range(5):
-            guess = int(input("Enter a number: "))
+            guess = input("Enter a number: ")
+            guess = validNumberChecker(guess)
             if (guess > theNumber):
                 print("The number is lower than you think.\n")
                 life -= 1
@@ -56,7 +68,8 @@ while playAgain:
         print("You have 10 guesses to figure out the number.")
         life = 10
         for _ in range(10):
-            guess = int(input("Enter a number: "))
+            guess = input("Enter a number: ")
+            guess = validNumberChecker(guess)
             if (guess > theNumber):
                 print("The number is lower than you think.\n")
                 life -= 1
